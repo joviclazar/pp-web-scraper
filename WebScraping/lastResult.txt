@@ -1,0 +1,30 @@
+Parallel fetching results
+====================================================
+Calcualtions took 9.89346 seconds.
+Time per book: 0.00989346 seconds.
+Time per page: 0.197869 seconds.
+====================================================
+Star Rating Analytics:
+Number of books with 1 star(s): 226
+Number of books with 2 star(s): 196
+Number of books with 3 star(s): 203
+Number of books with 4 star(s): 179
+Number of books with 5 star(s): 196
+Average rating: 2.923 stars.
+====================================================
+Average price of book: 35.0703 GBP.
+----------------------------------------------------
+The cheapest book:
+Title: An Abundance of Katherines
+Price: 10.00
+Stars: 5
+----------------------------------------------------
+The most expensive book:
+Title: The Perfect Play (Play by Play #1)
+Price: 59.99
+Stars: 3
+====================================================
+Matched books with search "flower": 
+The Flowers Lied
+The Perks of Being a Wallflower
+====================================================
