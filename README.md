@@ -1,4 +1,4 @@
-#Parallel Web Scraper in C++ 
+# Parallel Web Scraper in C++ 
 This project is a parallel web scraper implemented in C++ using the Intel Threading Building Blocks (TBB) library. It is designed to scrape data from [books.toscrape.com](http://books.toscrape.com/) using multiple threads to improve performance. This project was part of Parallel Programming course at the Faculty of Tehnical Sciences, University of Novi Sad.
 
 ## Features
